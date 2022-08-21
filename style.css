@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: gray;
+}
+
+section {
+    text-indent: 1em;
+
+    background-color: #fff;
+    margin: 2em 10em 1em;
+
+    padding: 2em 1em;
+}
+
+p {
+    margin-top: -1em;
+}
+
+a{
+    text-decoration: none;
+}
+
+section ul li {
+    list-style: inside;
+}
